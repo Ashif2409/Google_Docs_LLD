@@ -1,0 +1,3 @@
+Text: Welcome to Google Docs (C++ version)!
+Image: pic1.png
+Text: This is the end of the document.
